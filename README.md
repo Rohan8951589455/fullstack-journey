@@ -6,7 +6,7 @@ This repository contains my daily learning and projects as a Full Stack Develope
 - HTML
 - CSS
 - JavaScript
-- React
+- React.js
 - Node.js
 - MongoDB
 
