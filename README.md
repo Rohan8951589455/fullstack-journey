@@ -12,3 +12,4 @@ This repository contains my daily learning and projects as a Full Stack Develope
 
 ## Progress
 - Day 1: Git & GitHub setup ✅
+Day 2: JavaScript variables and data types practice  ✅
